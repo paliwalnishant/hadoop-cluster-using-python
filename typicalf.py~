@@ -1,0 +1,8 @@
+#!/usr/bin/python
+
+
+
+import os,commands
+
+os.system('dialog  --msgbox  "Press okay to create typical hadoop cluster with best possible configuration"  30  50')
+os.system('python /root/Desktop/python/typical.py')
