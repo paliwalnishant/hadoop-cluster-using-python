@@ -1,13 +1,13 @@
 # hadoop-cluster-using-python
 
-Tool can be used for Configuration of multinode hadoop cluster on one click .
-## python TUI has been used 
+#Tool can be used for Configuration of multinode hadoop cluster on one click .
+ python TUI has been used 
 
 Project includes implementation of :-
 
-1. Distributed Storage - Name Node , Data Node , Secondary Name node 
+1. ##Distributed Storage - Name Node , Data Node , Secondary Name node 
 
-2. Distributed Computing - Map Reduce , Job tracker , Task tracker 
+2.## Distributed Computing - Map Reduce , Job tracker , Task tracker 
 
 How to use tool :-
 
