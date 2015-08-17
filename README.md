@@ -20,3 +20,13 @@ How to use tool :-
 
 
 
+Future aspects of the project :-
+
+Currently i am working on shifting the project from python TUI to CGI . 
+
+A web portal can be created through which any user can create and access hadoop cluster from anywhere .
+
+A better user interface with the help of HTML, CSS, PHP can be created which through which multi node cluster can easily be created. 
+
+
+
