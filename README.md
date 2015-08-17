@@ -5,9 +5,9 @@
 
 Project includes implementation of :-
 
-1. ##Distributed Storage - Name Node , Data Node , Secondary Name node 
+##1. Distributed Storage - Name Node , Data Node , Secondary Name node 
 
-2.## Distributed Computing - Map Reduce , Job tracker , Task tracker 
+##2. Distributed Computing - Map Reduce , Job tracker , Task tracker 
 
 How to use tool :-
 
