@@ -7,7 +7,7 @@
 import os
 import commands
 import operator
-#commands.getstatusoutput("nmap -sL '192.168.1.0/24' | cut -d" " -f6 |cut -d'(' -f2 | cut -d')' -f1 > ip.txt")
+commands.getstatusoutput("nmap -sL '192.168.1.0/24' | cut -d" " -f6 |cut -d'(' -f2 | cut -d')' -f1 > ip.txt")
 
 f1=open("/root/Desktop/python/ip.txt",'r+')
 ipno=f1.readlines()#Stripping to be done
