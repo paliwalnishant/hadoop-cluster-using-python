@@ -1,6 +1,5 @@
 #!/usr/bin/python
 
-
 import os,commands
 
 
@@ -9,7 +8,7 @@ f1=open("/tmp/countdatanode.txt",'r')
 c=f1.read()
 f1.close()
 h=int(c)
-#os.system("dialog  --inputbox  "Enter ip of datnode :"  30 30  2>/tmp/datanodes.txt")
+
 for i in range(0,h):
 	
 	os.system('dialog  --inputbox  "Enter ip of datnode :"  30 30  2>/tmp/datanodeip%d.txt'%i)
